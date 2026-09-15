@@ -1,0 +1,10 @@
+{
+  "name": "test Supermarket Inventory Manager",
+  "description": "نظام إدارة وجرد مخزون السوبرماركت وربطه مع Google Sheets مع مسح الباركود بالكاميرا وتنبيهات الصلاحية.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
